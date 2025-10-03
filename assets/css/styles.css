@@ -270,23 +270,30 @@ img{
 }
 
 .home__img{
-  /* 1. Define a fixed size for the container */
-  width: 400px;  /* You can adjust this value */
-  height: 400px; /* Make it a square like the old 1000x1000 image */
-
-  /* 2. Use Flexbox to center the image inside */
+  /* Center the container itself within the grid */
+  justify-self: center;
+  align-self: center;
+  
+  /* Use Flexbox to center the image inside */
   display: flex;
   justify-content: center; /* Center horizontally */
   align-items: center;     /* Center vertically */
   
-  /* This was from your original code, it centers the container itself */
-  justify-self: center;
+  /* Make container responsive */
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  
+  /* Add some padding for smaller devices */
+  padding: 1rem;
 }
 
-/* This ensures the GIF inside doesn't stretch */
+/* This ensures the GIF inside doesn't stretch and stays centered */
 .home__img img {
     width: 150px;  /* Set to the GIF's natural width */
     height: 200px; /* Set to the GIF's natural height */
+    display: block; /* Remove any inline spacing */
+    margin: 0 auto; /* Extra centering insurance */
 }
 
 .home__title{
